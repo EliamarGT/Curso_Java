@@ -1,1 +1,38 @@
 SOLUCIONARIOS_CURSO_JAVA_PROGRAMMER
+
+CUESTINARIO #1.
+
+Pregunta 1:
+1. Every Java code gets compiled to Byte Code.
+
+Pregunta 2:
+2. JVM stands for Java Virtual Machine.
+
+Pregunta 3:
+3. JVM executes a bytecode TRUE.
+
+Pregunta 4:
+4. Java is a platform dependent programming language FALSE.
+
+
+CUESTINARIO #2.
+
+Pregunta 1:
+What is the value of c and i (respectively) after the execution of this code snippet?
+   int i=1,c;
+   c=i++;
+   RESPUESTA: 1,2
+
+Pregunta 2:
+2. What does "void" mean?
+   RESPUESTA: returns nothing.
+
+Pregunta 3:
+3.  What is the value of x after these statements? (try compiling the code and understand)
+    double x;
+    x=5.0/2.0+10-5*9;
+    RESPUESTA: -32.5
+
+Pregunta 4:
+Is String a primitive datatype?
+   RESPUESTA: FALSE
